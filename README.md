@@ -28,7 +28,7 @@ This is a solution to the [Digital Business Card solo project on Scrimba](https:
   - Footer (social icons)
 
 ### Screenshot
-![screenshot](/src/screenshot/reactpr2.png)
+![screenshot](/src/Screenshot/reactpr2.png)
 
 ### Links
 
