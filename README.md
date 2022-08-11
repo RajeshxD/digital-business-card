@@ -65,4 +65,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - [NPMJS](https://www.npmjs.com/package/@fortawesome/free-brands-svg-icons) - Dependency to use FontAwesome's brands icons
 
 ## Author
-- Website - [Emanuele Del Monte](https://rajesha.netlify.app/)
+- Website - [Rajesha T](https://rajesha.netlify.app/)
